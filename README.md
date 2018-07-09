@@ -55,7 +55,7 @@ You would write the code these three files
 
 ```
 # Add a new remote to the starter code
-git remote add starter https://github.com/nishant-jain-94/deaf-grandma-js-problem
+git remote add starter https://github.com/sro-boeing-wave-2/deaf-grandma-js-problem
 
 # Install all the dependencies
 npm install
